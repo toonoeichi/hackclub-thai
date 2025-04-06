@@ -1,3 +1,7 @@
+#### Currently, Thai (and also almost any) Version of Hack club site is down! Visit this [pull request](https://github.com/hackclub/global/issues/77) for more infomation.
+- ToonOeichi (Thai site maintainer)
+---
+
 # Hack Club Global Websites
 
 The goal of this project is to enable the creation of simplified versions of our Hack Club site that are translated into global languages. These sites should require practically no maintenance and be very brief. An example is [`fa.hackclub.com`](https://fa.hackclub.com).
